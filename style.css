@@ -1,0 +1,60 @@
+.internet-img  {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
+
+.internet-article   {
+    padding-top: 60px;
+    padding-right: 82px;
+    padding-left: 55px;
+    padding-bottom: 60px;
+}
+
+.internet-box   {
+    display: inline-block;
+    width: 65%;
+    margin-left: 5%;
+    vertical-align: middle;
+}
+
+.paragraph  {
+    margin-top: 25px;
+    align-content: left;
+    font-size: 12pt;
+    font-family: "BPG Glaho", sans-serif;
+}
+
+.internet-box h1 {
+    font-size: 32pt;
+    font-family: "BPG Glaho", sans-serif;
+}
+
+.web-box    {
+    margin: 60px 82px 60px 55px;
+}
+
+.web    h1  {
+    font-size: 32pt;
+    font-family: "BPG Glaho", sans-serif;
+}
+
+.web    p   {
+    margin-top: 25px;
+    font-size: 12pt;
+    font-family: "BPG Glaho", sans-serif;
+}
+
+.web    {
+    display: inline-block;
+    width: 65%;
+    vertical-align: middle;
+    margin-right: 5%;
+    text-align: right;
+}
+
+.web-img    {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
